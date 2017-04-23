@@ -8,8 +8,8 @@ import java.util.Map;
  */
 public class ProxyOutput implements Serializable {
 
-    public static String SUCCEEDED = "succeeded";
-    public static String FAILED = "failed";
+    public static String SUCCEEDED = "Succeeded";
+    public static String FAILED = "Failed";
 
     private String status;
 
